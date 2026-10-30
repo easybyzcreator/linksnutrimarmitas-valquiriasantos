@@ -1,0 +1,6 @@
+{
+  "name": "NutriMarmitas by Valquiria Santos",
+  "description": "Bio linkhub inovador e responsivo para NutriMarmitas by Valquiria Santos com cardápio digital de marmitas saudáveis, WhatsApp, redes sociais e seletor de idiomas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

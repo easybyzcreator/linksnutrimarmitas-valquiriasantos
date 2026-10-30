@@ -1,0 +1,29 @@
+{
+  "name": "NutriMarmitas by Valquiria Santos",
+  "short_name": "NutriMarmitas",
+  "description": "NutriMarmitas by Valquiria Santos - Marmitas saudáveis, práticas e nutritivas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8f5",
+  "theme_color": "#2E4E18",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/pwa_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
