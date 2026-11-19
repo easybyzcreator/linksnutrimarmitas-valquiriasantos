@@ -25,7 +25,7 @@ export const ASSETS = {
 
 export const CONTACT_LINKS = {
   valSiteUrl: 'https://nutrimarmitasbyvalquiriasantos.vercel.app/',
-  menuUrl: 'https://nutrimarmitasbyvalquiriasantos.vercel.app/',
+  menuUrl: 'https://nutrimarmitas.vercel.app/',
   consultationUrl: 'https://wa.me/5511943936946?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Nutricionista%20Valqu%C3%ADria%20Santos!',
   facebookUrl: 'https://www.facebook.com/profile.php?id=61588974800502',
   instagramUrl: 'https://www.instagram.com/nutrimarmitas_vs/',
